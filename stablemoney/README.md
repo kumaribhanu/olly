@@ -123,7 +123,8 @@ kubectl get all -n logging
 
 ## Expected Output
 
-![image](https://github.com/user-attachments/assets/9956e9ce-7a76-4a2a-bf33-55a5e06d8092)
+![image](https://github.com/user-attachments/assets/d08637fe-73bc-41ae-97e2-a52cf03d6ebb)
+
 
 3 . **OpenTelemetry (OTel) Setup**
 
