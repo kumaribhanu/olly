@@ -43,7 +43,7 @@ Clone the Repository and navigate to the VictoriaMetrics Directory
 ```
 git clone https://github.com/ot-client/stablemoney/blob/o11y/README.md
 
-cd/home/opstree/stablemoney/o11y_stack/staging/o11y_stack/victoriametrics/
+cd /home/opstree/stablemoney/o11y_stack/staging/o11y_stack/victoriametrics/
 ```
 
 ## Open the Makefile and Execute Commands One By One.
